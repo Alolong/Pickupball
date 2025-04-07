@@ -1,3 +1,3 @@
 ﻿  PouchBall.cpp
-C:\cording\L20250407rand()\Rand\Rand\PouchBall.cpp(5,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  Rand.vcxproj -> C:\cording\L20250407rand()\Rand\x64\Debug\Rand.exe
+C:\cording\L20250407PickUpBall\PickUpBall\Rand\PouchBall.cpp(7,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Rand.vcxproj -> C:\cording\L20250407PickUpBall\PickUpBall\x64\Debug\Rand.exe
